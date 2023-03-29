@@ -1,0 +1,19 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*$py.class
+venv/
+*.log
+.DS_Store
+db.sqlite3
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.sublime*
+.env
+local_settings.py
