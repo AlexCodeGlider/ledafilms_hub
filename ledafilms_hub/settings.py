@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'ledafilmshub.apps.LedafilmshubConfig'
+    'ledafilmshub.apps.LedafilmshubConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
